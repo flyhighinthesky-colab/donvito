@@ -34,6 +34,8 @@
 "link_not_audio":"https://archive.org/download/VLC3.0.13_201903/VLC_3.0.13.apk",
 "image_drawer":"https://i.imgur.com/DyQhjYv.png",
 "http_config":"https",
+"live_m3u8_link":"http://pastebin.com/raw/1HnEyb6t/.m3u, http://pastebin.com/raw/7z0NwbH5/.m3u",
+"live_m3u8_name":"America Channel(3/10), Sport Channel(3/10)",
 "tplayer_version_build":"20",
 "update_link_android4":"https://dl.dropboxusercontent.com/s/08zwd80wv2ex3ss/TeaTV_v9.9.6r.apk",
 "site_cookie":"http://www5.123movies.ag, https://afdah.info/embed,https://www4.watchfree.ac, http://m4ufree.tv, https://www4.watchfree.ac, http://www11.123moviesfree.com, https://hdmo.tv"
